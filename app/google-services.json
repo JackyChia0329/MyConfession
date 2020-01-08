@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1044432657322",
+    "firebase_url": "https://myconfession-f66b7.firebaseio.com",
+    "project_id": "myconfession-f66b7",
+    "storage_bucket": "myconfession-f66b7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1044432657322:android:f956a337ff647e874aa9d3",
+        "android_client_info": {
+          "package_name": "com.example.myconfession"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1044432657322-tbn9sea0c8gapub2rr5nkdcp62mk3m9b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.myconfession",
+            "certificate_hash": "08d9b1d97a96388dec581d58c650f9a1a9af2d0e"
+          }
+        },
+        {
+          "client_id": "1044432657322-bree9gmen6jnouebtn66r3mcuh229k00.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgegyxU6sFgbM8RnppMbkXxq7l33h7zBI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1044432657322-bree9gmen6jnouebtn66r3mcuh229k00.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
